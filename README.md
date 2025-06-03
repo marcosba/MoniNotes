@@ -75,7 +75,3 @@ CHUNK = 1024                # Size of audio chunks
 * Works best in quiet environments.
 * The script runs indefinitely until manually stopped or exited via tray.
 * Requires permission to access microphone and system tray (depending on OS).
-
----
-
-Let me know if you want it in Spanish too, or if you'd like to package this into an installer or executable.
